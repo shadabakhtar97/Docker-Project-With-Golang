@@ -1,5 +1,5 @@
-# Docker-Project-With-Golang
-3-Tier Project in Golang along with Docker
+### Docker-Project-With-Golang
+### 3-Tier Project in Golang along with Docker
 
 Creating a full three-tier application in Golang along with Docker deployment involves multiple components, such as the frontend, backend, and database. It's a complex task, but I can provide you with a basic example of a simple three-tier application to get you started. This example uses Golang for the backend and SQLite as the database. It includes a simple REST API for CRUD operations.
 
